@@ -1,2 +1,2 @@
 # Blender-meshes
-A general repo for all blender meshes 
+A general repo for all blender meshes I create
